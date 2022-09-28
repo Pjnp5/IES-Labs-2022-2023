@@ -16,4 +16,9 @@ Use "-Dexec.cleanupDaemonThreads=false" to stop showing the thread warning when 
 
 **Ex 1.3**<br>
 
+logger.trace() -> ERROR log type <br>
+logger.debug() -> FATAL log type <br>
+
+To create a log4j2 config file right-click "main" -> New -> Directory -> Resources
+This will create the "resources" directory, then create a new file named "log2j2.xml" in there and write the config you want inside <br>
 

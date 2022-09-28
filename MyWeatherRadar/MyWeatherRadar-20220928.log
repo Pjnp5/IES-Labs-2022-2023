@@ -1,0 +1,7 @@
+2022-09-28 11:32:19.725 [io.github.pjnp5.WeatherStarter.main()] DEBUG io.github.pjnp5.WeatherStarter - Debug log message
+2022-09-28 11:32:19.726 [io.github.pjnp5.WeatherStarter.main()] INFO  io.github.pjnp5.WeatherStarter - Info log message
+2022-09-28 11:32:19.726 [io.github.pjnp5.WeatherStarter.main()] ERROR io.github.pjnp5.WeatherStarter - Error log message
+2022-09-28 11:32:19.726 [io.github.pjnp5.WeatherStarter.main()] INFO  io.github.pjnp5.WeatherStarter - User gived a correct argument
+2022-09-28 11:32:19.827 [io.github.pjnp5.WeatherStarter.main()] INFO  io.github.pjnp5.WeatherStarter - Calling API
+2022-09-28 11:32:19.943 [io.github.pjnp5.WeatherStarter.main()] INFO  io.github.pjnp5.WeatherStarter - Printing info
+2022-09-28 11:32:19.945 [io.github.pjnp5.WeatherStarter.main()] INFO  io.github.pjnp5.WeatherStarter - Ending...
