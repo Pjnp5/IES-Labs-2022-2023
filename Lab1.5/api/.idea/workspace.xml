@@ -5,31 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27954980-9551-4b1b-95a3-f73d9054f415" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/api/CityForecast.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/api/IpmaCityForecast.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/api/IpmaClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/api/IpmaService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/api/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user/src/main/java/com/user/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user/src/test/java/com/user/AppTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../MyWeatherRadar/target/classes/io/github/pjnp5/WeatherStarter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../MyWeatherRadar/target/classes/io/github/pjnp5/WeatherStarter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../MyWeatherRadar/target/classes/io/github/pjnp5/ipma_client/CityForecast.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../MyWeatherRadar/target/classes/io/github/pjnp5/ipma_client/CityForecast.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../MyWeatherRadar/target/classes/io/github/pjnp5/ipma_client/IpmaCityForecast.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../MyWeatherRadar/target/classes/io/github/pjnp5/ipma_client/IpmaCityForecast.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../MyWeatherRadar/target/test-classes/io/github/pjnp5/AppTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../MyWeatherRadar/target/test-classes/io/github/pjnp5/AppTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../user/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +53,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1664466824056</updated>
-      <workItem from="1664466825184" duration="2312000" />
+      <workItem from="1664466825184" duration="3237000" />
     </task>
     <servers />
   </component>
