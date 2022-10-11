@@ -1,0 +1,187 @@
+04-Oct-2022 14:55:57.725 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.0.26
+04-Oct-2022 14:55:57.727 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Sep 23 2022 10:25:44 UTC
+04-Oct-2022 14:55:57.727 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.0.26.0
+04-Oct-2022 14:55:57.727 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+04-Oct-2022 14:55:57.727 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            12.5.1
+04-Oct-2022 14:55:57.727 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          aarch64
+04-Oct-2022 14:55:57.727 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Library/Java/JavaVirtualMachines/jdk-17.0.4.1.jdk/Contents/Home
+04-Oct-2022 14:55:57.728 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.4.1+1-LTS-2
+04-Oct-2022 14:55:57.728 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+04-Oct-2022 14:55:57.728 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/paulopinto/Desktop/IES_103234/Lab2/apache-tomcat-10.0.26
+04-Oct-2022 14:55:57.728 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/paulopinto/Desktop/IES_103234/Lab2/apache-tomcat-10.0.26
+04-Oct-2022 14:55:57.738 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+04-Oct-2022 14:55:57.738 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+04-Oct-2022 14:55:57.738 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+04-Oct-2022 14:55:57.738 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+04-Oct-2022 14:55:57.738 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+04-Oct-2022 14:55:57.738 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/paulopinto/Desktop/IES_103234/Lab2/apache-tomcat-10.0.26/conf/logging.properties
+04-Oct-2022 14:55:57.738 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+04-Oct-2022 14:55:57.738 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+04-Oct-2022 14:55:57.738 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+04-Oct-2022 14:55:57.738 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+04-Oct-2022 14:55:57.738 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+04-Oct-2022 14:55:57.738 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/paulopinto/Desktop/IES_103234/Lab2/apache-tomcat-10.0.26
+04-Oct-2022 14:55:57.738 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/paulopinto/Desktop/IES_103234/Lab2/apache-tomcat-10.0.26
+04-Oct-2022 14:55:57.738 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/paulopinto/Desktop/IES_103234/Lab2/apache-tomcat-10.0.26/temp
+04-Oct-2022 14:55:57.743 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/paulopinto/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+04-Oct-2022 14:55:57.915 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+04-Oct-2022 14:55:57.934 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [320] milliseconds
+04-Oct-2022 14:55:57.956 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+04-Oct-2022 14:55:57.956 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.0.26]
+04-Oct-2022 14:55:57.960 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/paulopinto/Desktop/IES_103234/Lab2/apache-tomcat-10.0.26/webapps/docs]
+04-Oct-2022 14:55:58.106 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/paulopinto/Desktop/IES_103234/Lab2/apache-tomcat-10.0.26/webapps/docs] has finished in [146] ms
+04-Oct-2022 14:55:58.106 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/paulopinto/Desktop/IES_103234/Lab2/apache-tomcat-10.0.26/webapps/manager]
+04-Oct-2022 14:55:58.128 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/paulopinto/Desktop/IES_103234/Lab2/apache-tomcat-10.0.26/webapps/manager] has finished in [22] ms
+04-Oct-2022 14:55:58.128 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/paulopinto/Desktop/IES_103234/Lab2/apache-tomcat-10.0.26/webapps/examples]
+04-Oct-2022 14:55:58.259 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/paulopinto/Desktop/IES_103234/Lab2/apache-tomcat-10.0.26/webapps/examples] has finished in [131] ms
+04-Oct-2022 14:55:58.259 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/paulopinto/Desktop/IES_103234/Lab2/apache-tomcat-10.0.26/webapps/ROOT]
+04-Oct-2022 14:55:58.269 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/paulopinto/Desktop/IES_103234/Lab2/apache-tomcat-10.0.26/webapps/ROOT] has finished in [10] ms
+04-Oct-2022 14:55:58.269 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/paulopinto/Desktop/IES_103234/Lab2/apache-tomcat-10.0.26/webapps/host-manager]
+04-Oct-2022 14:55:58.281 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/paulopinto/Desktop/IES_103234/Lab2/apache-tomcat-10.0.26/webapps/host-manager] has finished in [11] ms
+04-Oct-2022 14:55:58.282 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+04-Oct-2022 14:55:58.292 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [357] milliseconds
+04-Oct-2022 15:18:09.132 INFO [Catalina-utility-2] org.apache.catalina.users.MemoryUserDatabase.backgroundProcess Reloading memory user database [UserDatabase] from updated source [file:/Users/paulopinto/Desktop/IES_103234/Lab2/apache-tomcat-10.0.26/conf/tomcat-users.xml]
+04-Oct-2022 15:18:09.145 SEVERE [Catalina-utility-2] org.apache.tomcat.util.digester.Digester.fatalError Parse fatal error at line [40] column [36]
+	org.xml.sax.SAXParseException; lineNumber: 40; columnNumber: 36; The value of attribute "password" associated with an element type "user" must not contain the '<' character.
+		at java.xml/com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.createSAXParseException(ErrorHandlerWrapper.java:204)
+		at java.xml/com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.fatalError(ErrorHandlerWrapper.java:178)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:400)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:327)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLScanner.reportFatalError(XMLScanner.java:1465)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLScanner.scanAttributeValue(XMLScanner.java:943)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanAttribute(XMLDocumentFragmentScannerImpl.java:1522)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanStartElement(XMLDocumentFragmentScannerImpl.java:1363)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(XMLDocumentFragmentScannerImpl.java:2726)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:605)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:542)
+		at java.xml/com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:889)
+		at java.xml/com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:825)
+		at java.xml/com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+		at java.xml/com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1224)
+		at java.xml/com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:637)
+		at org.apache.tomcat.util.digester.Digester.parse(Digester.java:1539)
+		at org.apache.catalina.users.MemoryUserDatabase.open(MemoryUserDatabase.java:447)
+		at org.apache.catalina.users.MemoryUserDatabase.backgroundProcess(MemoryUserDatabase.java:741)
+		at org.apache.catalina.realm.UserDatabaseRealm.backgroundProcess(UserDatabaseRealm.java:146)
+		at org.apache.catalina.realm.CombinedRealm.backgroundProcess(CombinedRealm.java:301)
+		at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1148)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1365)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1347)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+		at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+		at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.base/java.lang.Thread.run(Thread.java:833)
+04-Oct-2022 15:18:09.147 SEVERE [Catalina-utility-2] org.apache.catalina.users.MemoryUserDatabase.backgroundProcess Error reloading memory user database [UserDatabase] from updated source [file:/Users/paulopinto/Desktop/IES_103234/Lab2/apache-tomcat-10.0.26/conf/tomcat-users.xml]
+	org.xml.sax.SAXParseException; lineNumber: 40; columnNumber: 36; The value of attribute "password" associated with an element type "user" must not contain the '<' character.
+		at java.xml/com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1251)
+		at java.xml/com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:637)
+		at org.apache.tomcat.util.digester.Digester.parse(Digester.java:1539)
+		at org.apache.catalina.users.MemoryUserDatabase.open(MemoryUserDatabase.java:447)
+		at org.apache.catalina.users.MemoryUserDatabase.backgroundProcess(MemoryUserDatabase.java:741)
+		at org.apache.catalina.realm.UserDatabaseRealm.backgroundProcess(UserDatabaseRealm.java:146)
+		at org.apache.catalina.realm.CombinedRealm.backgroundProcess(CombinedRealm.java:301)
+		at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1148)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1365)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1347)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+		at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+		at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.base/java.lang.Thread.run(Thread.java:833)
+04-Oct-2022 15:22:29.289 INFO [Catalina-utility-2] org.apache.catalina.users.MemoryUserDatabase.backgroundProcess Reloading memory user database [UserDatabase] from updated source [file:/Users/paulopinto/Desktop/IES_103234/Lab2/apache-tomcat-10.0.26/conf/tomcat-users.xml]
+04-Oct-2022 15:22:50.326 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.0.26
+04-Oct-2022 15:22:50.328 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Sep 23 2022 10:25:44 UTC
+04-Oct-2022 15:22:50.328 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.0.26.0
+04-Oct-2022 15:22:50.328 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+04-Oct-2022 15:22:50.328 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            12.5.1
+04-Oct-2022 15:22:50.329 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          aarch64
+04-Oct-2022 15:22:50.329 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Library/Java/JavaVirtualMachines/jdk-17.0.4.1.jdk/Contents/Home
+04-Oct-2022 15:22:50.329 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.4.1+1-LTS-2
+04-Oct-2022 15:22:50.329 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+04-Oct-2022 15:22:50.329 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/paulopinto/Desktop/IES_103234/Lab2/apache-tomcat-10.0.26
+04-Oct-2022 15:22:50.329 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/paulopinto/Desktop/IES_103234/Lab2/apache-tomcat-10.0.26
+04-Oct-2022 15:22:50.335 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+04-Oct-2022 15:22:50.336 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+04-Oct-2022 15:22:50.336 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+04-Oct-2022 15:22:50.336 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+04-Oct-2022 15:22:50.336 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+04-Oct-2022 15:22:50.336 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/paulopinto/Desktop/IES_103234/Lab2/apache-tomcat-10.0.26/conf/logging.properties
+04-Oct-2022 15:22:50.336 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+04-Oct-2022 15:22:50.336 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+04-Oct-2022 15:22:50.336 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+04-Oct-2022 15:22:50.336 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+04-Oct-2022 15:22:50.336 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+04-Oct-2022 15:22:50.336 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/paulopinto/Desktop/IES_103234/Lab2/apache-tomcat-10.0.26
+04-Oct-2022 15:22:50.336 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/paulopinto/Desktop/IES_103234/Lab2/apache-tomcat-10.0.26
+04-Oct-2022 15:22:50.336 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/paulopinto/Desktop/IES_103234/Lab2/apache-tomcat-10.0.26/temp
+04-Oct-2022 15:22:50.341 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/paulopinto/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+04-Oct-2022 15:22:50.510 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+04-Oct-2022 15:22:50.525 SEVERE [main] org.apache.catalina.util.LifecycleBase.handleSubClassException Failed to initialize component [Connector[HTTP/1.1-8080]]
+	org.apache.catalina.LifecycleException: Protocol handler initialization failed
+		at org.apache.catalina.connector.Connector.initInternal(Connector.java:1055)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:136)
+		at org.apache.catalina.core.StandardService.initInternal(StandardService.java:556)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:136)
+		at org.apache.catalina.core.StandardServer.initInternal(StandardServer.java:1045)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:136)
+		at org.apache.catalina.startup.Catalina.load(Catalina.java:747)
+		at org.apache.catalina.startup.Catalina.load(Catalina.java:769)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+		at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+		at org.apache.catalina.startup.Bootstrap.load(Bootstrap.java:305)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:475)
+	Caused by: java.net.BindException: Address already in use
+		at java.base/sun.nio.ch.Net.bind0(Native Method)
+		at java.base/sun.nio.ch.Net.bind(Net.java:555)
+		at java.base/sun.nio.ch.ServerSocketChannelImpl.netBind(ServerSocketChannelImpl.java:337)
+		at java.base/sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:294)
+		at org.apache.tomcat.util.net.NioEndpoint.initServerSocket(NioEndpoint.java:246)
+		at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:201)
+		at org.apache.tomcat.util.net.AbstractEndpoint.bindWithCleanup(AbstractEndpoint.java:1192)
+		at org.apache.tomcat.util.net.AbstractEndpoint.init(AbstractEndpoint.java:1205)
+		at org.apache.coyote.AbstractProtocol.init(AbstractProtocol.java:583)
+		at org.apache.coyote.http11.AbstractHttp11Protocol.init(AbstractHttp11Protocol.java:79)
+		at org.apache.catalina.connector.Connector.initInternal(Connector.java:1052)
+		... 13 more
+04-Oct-2022 15:22:50.526 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [302] milliseconds
+04-Oct-2022 15:22:50.548 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+04-Oct-2022 15:22:50.548 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.0.26]
+04-Oct-2022 15:22:50.552 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/paulopinto/Desktop/IES_103234/Lab2/apache-tomcat-10.0.26/webapps/docs]
+04-Oct-2022 15:22:50.701 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/paulopinto/Desktop/IES_103234/Lab2/apache-tomcat-10.0.26/webapps/docs] has finished in [149] ms
+04-Oct-2022 15:22:50.702 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/paulopinto/Desktop/IES_103234/Lab2/apache-tomcat-10.0.26/webapps/manager]
+04-Oct-2022 15:22:50.723 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/paulopinto/Desktop/IES_103234/Lab2/apache-tomcat-10.0.26/webapps/manager] has finished in [21] ms
+04-Oct-2022 15:22:50.723 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/paulopinto/Desktop/IES_103234/Lab2/apache-tomcat-10.0.26/webapps/examples]
+04-Oct-2022 15:22:50.859 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/paulopinto/Desktop/IES_103234/Lab2/apache-tomcat-10.0.26/webapps/examples] has finished in [136] ms
+04-Oct-2022 15:22:50.859 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/paulopinto/Desktop/IES_103234/Lab2/apache-tomcat-10.0.26/webapps/ROOT]
+04-Oct-2022 15:22:50.870 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/paulopinto/Desktop/IES_103234/Lab2/apache-tomcat-10.0.26/webapps/ROOT] has finished in [11] ms
+04-Oct-2022 15:22:50.870 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/paulopinto/Desktop/IES_103234/Lab2/apache-tomcat-10.0.26/webapps/host-manager]
+04-Oct-2022 15:22:50.881 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/paulopinto/Desktop/IES_103234/Lab2/apache-tomcat-10.0.26/webapps/host-manager] has finished in [11] ms
+04-Oct-2022 15:22:50.883 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [357] milliseconds
+04-Oct-2022 15:22:50.887 SEVERE [main] org.apache.catalina.core.StandardServer.await Failed to create server shutdown socket on address [localhost] and port [8005] (base port [8005] and offset [0])
+	java.net.BindException: Address already in use
+		at java.base/sun.nio.ch.Net.bind0(Native Method)
+		at java.base/sun.nio.ch.Net.bind(Net.java:555)
+		at java.base/sun.nio.ch.Net.bind(Net.java:544)
+		at java.base/sun.nio.ch.NioSocketImpl.bind(NioSocketImpl.java:643)
+		at java.base/java.net.ServerSocket.bind(ServerSocket.java:388)
+		at java.base/java.net.ServerSocket.<init>(ServerSocket.java:274)
+		at org.apache.catalina.core.StandardServer.await(StandardServer.java:580)
+		at org.apache.catalina.startup.Catalina.await(Catalina.java:887)
+		at org.apache.catalina.startup.Catalina.start(Catalina.java:833)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+		at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+		at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:345)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:476)
+04-Oct-2022 15:22:50.887 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+04-Oct-2022 15:22:50.887 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+04-Oct-2022 15:22:50.897 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+04-Oct-2022 15:22:50.898 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]

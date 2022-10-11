@@ -17,3 +17,20 @@
       * The catalog should be "Maven Central"
         Archetype should be "org.codehaus.mojo.archetypes:webapp-javaee7"
       * Version: 1.1
+  * 7)
+      * First check if tomcat server is online and use ````shutdown.sh```` to make it stop
+      * Then check if the tomcat plugin is well installed on the maven project
+      * Go to "Run" -> "Edit Configurations"
+      * Add a Local Tomcat server and configure it as the following site says: https://mkyong.com/intellij/intellij-idea-run-debug-web-application-on-tomcat/
+    8)
+      * Unable to get
+
+* Lab 2.2
+  * 1)
+    * Not much to say about, quite simple
+
+* Lab 2.3
+  *  1) 
+
+
+
