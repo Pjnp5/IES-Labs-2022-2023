@@ -5,66 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d2ce1a4-48e4-48e2-9d5d-751af2d7a67d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Lab21/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab21/src/main/java/IES/lab21/MyServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab2_2/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab2_2/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab2_2/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab2_2/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab2_2/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab2_2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab2_2/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab2_2/src/main/java/EmbeddedJettyExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab2_2/src/main/webapp/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab2_2/target/EmbeddedJettyExample-0.0.1-SNAPSHOT.war" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab2_2/target/EmbeddedJettyExample-0.0.1-SNAPSHOT/WEB-INF/classes/EmbeddedJettyExample$HelloServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab2_2/target/EmbeddedJettyExample-0.0.1-SNAPSHOT/WEB-INF/classes/EmbeddedJettyExample.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab2_2/target/EmbeddedJettyExample-0.0.1-SNAPSHOT/WEB-INF/lib/javax.servlet-api-3.1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab2_2/target/EmbeddedJettyExample-0.0.1-SNAPSHOT/WEB-INF/lib/jetty-http-9.2.15.v20160210.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab2_2/target/EmbeddedJettyExample-0.0.1-SNAPSHOT/WEB-INF/lib/jetty-io-9.2.15.v20160210.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab2_2/target/EmbeddedJettyExample-0.0.1-SNAPSHOT/WEB-INF/lib/jetty-security-9.2.15.v20160210.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab2_2/target/EmbeddedJettyExample-0.0.1-SNAPSHOT/WEB-INF/lib/jetty-server-9.2.15.v20160210.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab2_2/target/EmbeddedJettyExample-0.0.1-SNAPSHOT/WEB-INF/lib/jetty-servlet-9.2.15.v20160210.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab2_2/target/EmbeddedJettyExample-0.0.1-SNAPSHOT/WEB-INF/lib/jetty-util-9.2.15.v20160210.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab2_2/target/EmbeddedJettyExample-0.0.1-SNAPSHOT/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab2_2/target/classes/EmbeddedJettyExample$HelloServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab2_2/target/classes/EmbeddedJettyExample.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab2_2/target/endorsed/javaee-endorsed-api-7.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab2_2/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab2_2/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab2_2/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab2_3/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab2_3/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab2_3/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab2_3/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab2_3/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab2_3/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab2_3/serving-web-content/src/main/java/com/example/servingwebcontent/Greeting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab2_3/serving-web-content/src/main/java/com/example/servingwebcontent/GreetingController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab2_3/serving-web-content/src/main/resources/templates/greeting.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab2_3/src/main/java/com/example/demo/DemoApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab2_3/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab2_3/src/test/java/com/example/demo/DemoApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/IES/lab2_4/Movies.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/IES/lab2_4/MoviesController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../apache-tomcat-10.0.26/logs/catalina.2022-10-11.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../apache-tomcat-10.0.26/logs/localhost.2022-10-10.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../apache-tomcat-10.0.26/logs/localhost.2022-10-11.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../apache-tomcat-10.0.26/logs/localhost_access_log.2022-10-11.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../apache-tomcat-10.0.26/logs/manager.2022-10-11.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../apache-tomcat-10.0.26/webapps/Lab2.1-1.0-SNAPSHOT/WEB-INF/classes/IES/lab21/MyServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../apache-tomcat-10.0.26/webapps/Lab2.1-1.0-SNAPSHOT/WEB-INF/classes/MyServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab2_3.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab21/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab21/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab21/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab21/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2_3/gs-serving-web-content" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2_3/gs-serving-web-content" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,10 +48,15 @@
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JAR Application.lab2_4-0.0.1-SNAPSHOT.jar">
+    <configuration name="lab2_4-0.0.1-SNAPSHOT.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/target/lab2_4-0.0.1-SNAPSHOT.jar" />
+      <method v="2" />
+    </configuration>
     <configuration name="Lab24Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="lab2_4" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="IES.lab2_4.Lab24Application" />
@@ -118,6 +64,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JAR Application.lab2_4-0.0.1-SNAPSHOT.jar" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -127,7 +78,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1665515100609</updated>
-      <workItem from="1665515101767" duration="1284000" />
+      <workItem from="1665515101767" duration="5982000" />
     </task>
     <servers />
   </component>
