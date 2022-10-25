@@ -1,16 +1,11 @@
 package IES.Lab3_3.model;
 
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Set;
-import java.util.HashSet;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
-import javax.persistence.OneToMany;
 import javax.persistence.Table;
 
 
@@ -31,12 +26,6 @@ public class Movie {
         this.title = title;
         this.year = year;
     }
-
-
-
-    ///public Set<Quote> getItems() {
-    ///return this.items;}
-
 
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
@@ -69,10 +58,8 @@ public class Movie {
     @Override
     public String toString() {
 
-        String ret = "Movie [id=" + id + ", title=" + title + ", year=" + year + "]";
 
-
-        return ret;
+        return "Movie [id=" + id + ", title=" + title + ", year=" + year + "]";
     }
 
 

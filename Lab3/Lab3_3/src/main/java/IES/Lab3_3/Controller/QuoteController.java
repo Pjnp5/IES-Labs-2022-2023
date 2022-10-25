@@ -15,21 +15,21 @@ import java.util.Random;
 @RestController
 public class QuoteController {
     @Autowired
-    private QuoteService service;
+    private QuoteService Quoteservice;
 
     @Autowired
-    private ProductQuote service2;
+    private ProductQuote MovieService;
 
 
     @PostMapping("/addQuote")
     public Quote newQuotes(@RequestBody NewQuote m) {
-        return service.saveQuote(new Quote (m.getQuote(),service2.getMovieById(m.getShowId())));
+        return Quoteservice.saveQuote(new Quote (m.getQuote(),MovieService.getMovieById(m.getShowId())));
     }
 
 
     @GetMapping("/quote")
     public Quote findAllQuotes() {
-        List<Quote> a = service.getQuotes();
+        List<Quote> a = Quoteservice.getQuotes();
         Quote ret;
         if (a.size() >0 ){
             Random r = new Random();
@@ -44,7 +44,7 @@ public class QuoteController {
 
     @GetMapping("/quotes")
     public Quote findQuoteById(@RequestParam(value = "show")  int id) {
-        List<Quote> a = service.getQuotes();
+        List<Quote> a = Quoteservice.getQuotes();
         List<Quote> rets= new ArrayList<>();
         for (Quote qu: a){
             if (qu.getOrder().getId() == id ){
@@ -60,20 +60,20 @@ public class QuoteController {
 
     @PutMapping("/updateQuote")
     public Quote updateQuote(@RequestBody Quote product) {
-        return service.updateQuote(product);
+        return Quoteservice.updateQuote(product);
     }
 
 
     @PostMapping("/addMovie")
     public Movie addMovie(@RequestBody Movie m) {
-        return service2.saveMovie(m);
+        return MovieService.saveMovie(m);
     }
 
 
 
     @GetMapping("/shows")
     public List<Movie> findAllMovies() {
-        return service2.getMovies();
+        return MovieService.getMovies();
     }
 
 
@@ -82,11 +82,11 @@ public class QuoteController {
 
     @PutMapping("/update")
     public Movie updateProduct(@RequestBody Movie product) {
-        return service2.updateMovie(product);
+        return MovieService.updateMovie(product);
     }
 
     @DeleteMapping("/delete/{id}")
     public String deleteMovie(@PathVariable int id) {
-        return service2.deleteMovie(id);
+        return MovieService.deleteMovie(id);
     }
 }

@@ -2,34 +2,34 @@
 
 **2022/2023 IES Labs**
 
-To create a maven project IntelliJ IDEA we open the IDE, go to File -> New -> Project -> Maven Archetype 
+To create a maven project IntelliJ IDEA we open the IDE, go to File -> New -> Project -> Maven Archetype
 We select the name we want for the project and its location (option to create a git repository)
 The catalog should be "Maven Central"
 Archetype should be "org.apache.maven.archetypes:maven-archetype-quickstart"
 On "Advanced Settings"  we can write the "groupId" and the "ArtifactId"
 Press create and it's done.
 
-**Ex 1.2** 
+**Ex 1.2**
 
 To select the main class we use -Dexec.mainClass="directory.MainClass"
 To use args when running a maven project use "-Dexec.args="arg0 arg1 arg2"
 Use "-Dexec.cleanupDaemonThreads=false" to stop showing the thread warning when running the project
 
-**Ex 1.3** 
+**Ex 1.3**
 
-logger.info() -> INFO log type 
+logger.info() -> INFO log type
 logger.error() -> ERROR log type
 logger.debug() -> DEBUG log type
 
 To create a log4j2 config file right-click "main" -> New -> Directory -> Resources
-This will create the "resources" directory, then create a new file named "log2j2.xml" in there and write the config you want inside 
+This will create the "resources" directory, then create a new file named "log2j2.xml" in there and write the config you want inside
 
-**Ex 1,4** 
+**Ex 1,4**
 
 To install docker "brew install docker"
 To update docker "brew upgrade docker"
 
-To create a docker group "sudo groupadd docker" 
+To create a docker group "sudo groupadd docker"
 Add user to docker group "sudo usermod -aG docker $username"
 *Can't use this commands on macOS, they are not supported*
 
@@ -48,12 +48,11 @@ For example, specify *-p 3000:80* and then access the tutorial via a web browser
 
 *Info* -> We should think that a Container is something like an extended version of "chroot", having additional isolation.
 
-*To build app's container image* 
+*To build app's container image*
 
-Create a file name "Dockerfile", not .txt, then in the terminal write "docker build -t getting-started" 
+Create a file name "Dockerfile", not .txt, then in the terminal write "docker build -t getting-started"
 
 **Review Questions**
-
 
 **A)**
 	Maven main phases no ciclo default:
