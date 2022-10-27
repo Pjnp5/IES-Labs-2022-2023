@@ -88,3 +88,25 @@
   * ```docker build -t quoteapp .``` to build the image
   * ```docker run --network=host -p 8080:8080 quoteapp``` to run the app
 
+### Review Questions
+
+
+A) 
+* The class that has the ```@RestController``` annotation returns Json Data.
+* Classes that have the ```@Controller``` annotation render the Thymeleaf template.
+* "The ```@RestController``` annotation in Spring MVC/Spring BOOT is nothing but a combination of ```@Controller``` and ```@ResponseBody``` annotation."
+* "The ```@Controller``` annotation indicates that the class is controller like web Controller while ```@RestController``` annotation indicates that the class is controller where ```@RequestMapping``` Method assume ```@ResponseBody``` by Default(i.e REST APIs)."
+
+B)
+* On Lab3 package, Lab3.png
+
+C)
+
+* ```@Id``` serves to specify the primary key of an entity
+* ```@Column``` is an optional annotation that allows customizing the mapping between the entity attribute and the database column
+* ```@Table``` is an annotation thar allows you to specify the details of the table that will be used to store the entity in the database in a persistent way
+
+D)
+
+* "The Spring framework enables automatic dependency injection. In other words, by declaring all the bean dependencies in a Spring configuration file, Spring container can autowire relationships between collaborating beans. This is called Spring bean autowiring."
+*  In *UserController* class its used to mark the *UserRepository* instance
