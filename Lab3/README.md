@@ -10,9 +10,9 @@
 <br>
 * a)
   * The tutorial was pretty easy to understand, used ```https://start.spring.io/``` with the following dependencies: <br>
-    **Spring Web**, **Thymeleaf**, **Spring Data JPA**, **H2 database** and **Validation**.
+    ** Spring Web **, ** Thymeleaf **, ** Spring Data JPA **, ** H2 database ** and ** Validation **.
   * On the *User* class, we use the notation ```@Entity``` to  specify that the class is an entity and is mapped to a database table.
-  * ```@NotBlank``` makes this fields mandatory, they always have to be not *null*
+  * ```@NotBlank``` makes this fields mandatory, they always have to be not * null *
   * The ```@Id``` annotation specifies the primary key of an entity and the ```@GeneratedValue``` provides for the specification of generation strategies for the values of primary keys.
   * In the *UserRepository* interface, we use ```@Repository``` to identify it as the repository, and then we extend it to *CrudRepository* to give it the CRUD functionalities.
   * The methods *addUser()* and  *showSignUpForm()* are some of the methods we implemented that the controller is going to use
