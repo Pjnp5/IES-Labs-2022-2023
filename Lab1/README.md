@@ -1,6 +1,4 @@
-# IES_103234
-
-## **2022/2023 IES Lab 1**
+# **2022/2023 IES Lab 1**
 
 To create a **maven project IntelliJ IDEA** we open the IDE, go to **File -> New -> Project -> Maven Archetype**
 
@@ -143,8 +141,6 @@ Maven main phases no ciclo default:
 **deploy** - Copia o package final para o repositório remoto para ser possivel partilha-lo
 ```
 
-
-
 #### **B)**
 
 ```
@@ -152,8 +148,6 @@ Sim, o maven pode ser util para correr o nosso projeto , como utilizamos na perg
 
 O Maven pode ativar diferentes plug-ins, incluindo plug-ins para executar uma classe específica
 ```
-
-
 
 #### **C)**
 
@@ -164,8 +158,6 @@ git add .
 git commit -m "nova funcionalidade"
 git push
 ```
-
-
 
 #### **D)**
 
@@ -183,11 +175,8 @@ Usar uma linguagem que toda gente entenda
 Não dar commit diretamente no master, fazer branch primeiro, para termos segurança que se alguem da nossa equipa mexeu no trabalho não vamos estar a dar overwrite no dele.
 ```
 
-
-
 #### **E)**
 
 ```
 Ao configurar volumes  vamos fazer com que exista persistencia dos dados na base de dados e assim no caso do container desaparecer, for apagado ou o sistema sofrer um reboot os dados ainda estão disponíveis.
 ```
-
